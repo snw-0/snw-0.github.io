@@ -1,5 +1,3 @@
-## Samuel Wilson
-
 PhD candidate at Louisiana State University.
 
 ### Contact Information
