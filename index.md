@@ -1,4 +1,12 @@
-PhD candidate at Louisiana State University.
+PhD candidate at Louisiana State University. Graduating May 2023.
+
+My advisor is Dr. Siu-Hung Ng. My research focuses on modular categories and related topics.
+
+### Work
+
+(Forthcoming). Symmetric representations of SL2(Z). Proceedings of the American Mathematical Society.
+(2022). [SL2Reps](https://snw-0.github.io/sl2-reps/), a GAP package for generating symmetric representations of modular groups.
+(2019). Power Domination on Permutation Graphs. Discrete Applied Mathematics, 262, 169–178.
 
 ### Contact Information
 
