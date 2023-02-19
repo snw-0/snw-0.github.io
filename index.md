@@ -4,7 +4,7 @@ My advisor is Dr. Siu-Hung Ng. My research focuses on modular categories and rel
 
 ### Work
 
-(Forthcoming). [On symmetric representations of SL2(Z)](https://arxiv.org/abs/2203.15701). Proceedings of the American Mathematical Society.
+(2023). [On symmetric representations of SL2(Z)](https://arxiv.org/abs/2203.15701). Proceedings of the American Mathematical Society, 151(4), 1415–1431.
 
 (2022). [SL2Reps](https://snw-0.github.io/sl2-reps/), a GAP package for generating symmetric representations of modular groups.
 
