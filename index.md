@@ -1,4 +1,4 @@
-PhD candidate at Louisiana State University. Graduating May 2023.
+Ph.D. candidate at Louisiana State University. Graduating May 2023.
 
 My advisor is Dr. Siu-Hung Ng. My research focuses on modular categories and related topics.
 
