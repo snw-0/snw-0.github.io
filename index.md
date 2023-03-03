@@ -2,6 +2,8 @@ PhD candidate at Louisiana State University. Graduating May 2023.
 
 My advisor is Dr. Siu-Hung Ng. My research focuses on modular categories and related topics.
 
+My CV can be found [here](cv.pdf).
+
 ### Work
 
 (2023). [On symmetric representations of SL2(Z)](https://arxiv.org/abs/2203.15701). Proceedings of the American Mathematical Society, 151(4), 1415–1431.
