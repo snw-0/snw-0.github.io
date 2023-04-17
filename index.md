@@ -6,6 +6,8 @@ My CV can be found [here](cv.pdf).
 
 ### Work
 
+(2023). [SL(2,Z) Representations and 2-Semiregular Modular Categories](https://digitalcommons.lsu.edu/gradschool_dissertations/6094). LSU Doctoral Dissertations, 6094.
+
 (2023). [On symmetric representations of SL2(Z)](https://arxiv.org/abs/2203.15701). Proceedings of the American Mathematical Society, 151(4), 1415–1431.
 
 (2022). [SL2Reps](https://snw-0.github.io/sl2-reps/), a GAP package for generating symmetric representations of modular groups.
